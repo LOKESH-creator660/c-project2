@@ -13,6 +13,5 @@ pal.o:pal.c
 sum.o:sum.c
 	gcc -c sum.c
 clean:
-	rm -rf *.o
-
+	rm -rf *.o ABC.exe
 
